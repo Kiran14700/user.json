@@ -1,0 +1,98 @@
+[
+  {
+    "supplierId": "S001",
+    "companyName": "Tech Innovators Ltd.",
+    "website": "http://techinnovators.com",
+    "location": "New York",
+    "natureOfBusiness": "Small Scale",
+    "manufacturingProcess": "Moulding"
+  },
+  {
+    "supplierId": "S002",
+    "companyName": "GreenTech Solutions",
+    "website": "http://greentechsolutions.com",
+    "location": "San Francisco",
+    "natureOfBusiness": "Medium Scale",
+    "manufacturingProcess": "Casting"
+  },
+  {
+    "supplierId": "S003",
+    "companyName": "Precision Parts Inc.",
+    "website": "http://precisionparts.com",
+    "location": "Los Angeles",
+    "natureOfBusiness": "Large Scale",
+    "manufacturingProcess": "3D Printing"
+  },
+  {
+    "supplierId": "S004",
+    "companyName": "Global Manufacturing Co.",
+    "website": "http://globalmanufacturing.com",
+    "location": "Chicago",
+    "natureOfBusiness": "Medium Scale",
+    "manufacturingProcess": "Coating"
+  },
+  {
+    "supplierId": "S005",
+    "companyName": "FutureTech Industries",
+    "website": "http://futuretechindustries.com",
+    "location": "Dallas",
+    "natureOfBusiness": "Small Scale",
+    "manufacturingProcess": "Moulding"
+  },
+  {
+    "supplierId": "S006",
+    "companyName": "NextGen Fabricators",
+    "website": "http://nextgenfabricators.com",
+    "location": "Austin",
+    "natureOfBusiness": "Large Scale",
+    "manufacturingProcess": "3D Printing"
+  },
+  {
+    "supplierId": "S007",
+    "companyName": "Elite Components",
+    "website": "http://elitecomponents.com",
+    "location": "Seattle",
+    "natureOfBusiness": "Medium Scale",
+    "manufacturingProcess": "Casting"
+  },
+  {
+    "supplierId": "S008",
+    "companyName": "Advanced Engineering",
+    "website": "http://advancedengineering.com",
+    "location": "Denver",
+    "natureOfBusiness": "Small Scale",
+    "manufacturingProcess": "Coating"
+  },
+  {
+    "supplierId": "S009",
+    "companyName": "Dynamic Tech",
+    "website": "http://dynamictech.com",
+    "location": "San Diego",
+    "natureOfBusiness": "Large Scale",
+    "manufacturingProcess": "Moulding"
+  },
+  {
+    "supplierId": "S010",
+    "companyName": "Innovative Solutions",
+    "website": "http://innovativesolutions.com",
+    "location": "Boston",
+    "natureOfBusiness": "Medium Scale",
+    "manufacturingProcess": "3D Printing"
+  },
+  {
+    "supplierId": "S011",
+    "companyName": "Prime Fabricators",
+    "website": "http://primefabricators.com",
+    "location": "Philadelphia",
+    "natureOfBusiness": "Large Scale",
+    "manufacturingProcess": "Casting"
+  },
+  {
+    "supplierId": "S012",
+    "companyName": "Tech Forge Ltd.",
+    "website": "http://techforgeltd.com",
+    "location": "Houston",
+    "natureOfBusiness": "Small Scale",
+    "manufacturingProcess": "Coating"
+  }
+]
